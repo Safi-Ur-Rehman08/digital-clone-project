@@ -1,0 +1,32 @@
+[
+    {
+        "chunk_id": "chunk_1",
+        "source": "bio.md",
+        "text": "# About Me My name is Safi ur Rehman. I am a Bachelor of Science in Computer Science student. My interests include programming, technology and artificial intelligence. My goal is to improve my technical knowledge and practical skills.",
+        "word_count": 38
+    },
+    {
+        "chunk_id": "chunk_2",
+        "source": "cv.md",
+        "text": "# CV # Education and Skills ## Education Degree: BS Computer Science ## Technical Skills - C++ - Python - Database Management - Microsoft Excel - HTML and CSS ## Career Interests Artificial Intelligence Software Development",
+        "word_count": 36
+    },
+    {
+        "chunk_id": "chunk_3",
+        "source": "faq.md",
+        "text": "# FAQ # Frequently Asked Questions Q1: Who are you? A: I am a BSCS student interested in technology and programming. Q2: What are your hobbies? A: My hobbies include learning new technologies and exploring computer-related topics. Q3: What is your favourite subject? A: My favourite subject is [Your actual favourite subject]. Q4: What are your career goals? A: I want to improve my programming skills and become a professional software developer.",
+        "word_count": 72
+    },
+    {
+        "chunk_id": "chunk_4",
+        "source": "opinions.md",
+        "text": "# Opinions # My Personality and Opinions I believe practical learning is important for computer science students. I enjoy learning new technologies. I prefer simple explanations with practical examples.",
+        "word_count": 29
+    },
+    {
+        "chunk_id": "chunk_5",
+        "source": "projects.md",
+        "text": "# Projects # My Projects ## Intelligent Ophthalmology Web System This is an academic project focused on developing an intelligent web system for ophthalmology. One of its functionalities is Diabetic Retinopathy detection. The system uses AI to help doctors review retinal images and reports.",
+        "word_count": 44
+    }
+]

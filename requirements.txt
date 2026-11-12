@@ -1,0 +1,7 @@
+# Add Python dependencies here.
+gradio
+rank_bm25
+sentence-transformers
+numpy
+huggingface_hub
+python-dotenv
